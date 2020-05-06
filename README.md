@@ -18,7 +18,7 @@ Activate it:
 
 `$ source who/bin/activate`
 
-Clone reposiroty from github:
+Clone repository from github:
 
 `(who) $ git clone https://github.com/vitiugin/who.git`
 
@@ -38,4 +38,13 @@ Download [data](https://doi.org/10.5281/zenodo.3798212 "data") and unzip it in d
 
 ###  Information about data
 
-...
+Total number of tweets: 4 054 411
+Undefiened number of tweets: 30 877
+
+Top-20 languages in dataset:
+
+| en | es | fr  | id  |  it  | th   | ca   | hi   |  pt  | ja   | de   | ar   | ta   | tr   | nl   | pl   | tl   |  ur  | sw   |  el  |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| 64| 16.5  |  6.4| 1.5  | 1.4 |  1.1 | 1.1  | 1.1  | 0.9  | 0.8  | 0.8  |  0.6 |  0.4 |  0.3 | 0.2  | 0.16  | 0.15  | 0.15  | 0.14  | 0.14  |
+
+![](https://github.com/vitiugin/who/blob/master/src/lang_dist.png)
