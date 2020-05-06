@@ -38,9 +38,8 @@ Download [data](https://doi.org/10.5281/zenodo.3798212 "data") and unzip it in d
 
 ###  Information about data
 
-Total number of tweets: 4 054 411
-
-Undefiened number of tweets: 30 877
+- Total number of tweets: 4 054 411
+- Undefiened number of tweets: 30 877
 
 Top-20 languages in dataset:
 
