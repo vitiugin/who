@@ -10,7 +10,7 @@ print('Open files.')
 # Data stores in compressed .xlsx files.
 # After downloading files an unzipping they need to replace in 'data' folder in project directory.
 
-filenames = glob('../data/*Tweets (Users with _ 1,000 followers).xlsx')
+filenames = glob('***.xlsx')
 dataframes = [pd.read_excel(open(f, 'rb'), sheet_name='Archive') for f in filenames]
 data = pd.concat(dataframes)
 
