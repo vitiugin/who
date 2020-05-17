@@ -48,10 +48,3 @@ Top-20 languages in dataset:
 | 64| 16.5 |  6.4| 1.5  | 1.4 |  1.1 | 1.1  | 1.1  | 0.9  | 0.8  | 0.8  |  0.6 |  0.4 |  0.3 | 0.2  | 0.16  | 0.15  | 0.15  | 0.14  | 0.14  |
 
 ![](https://github.com/vitiugin/who/blob/master/src/lang_dist.png)
-
-###  ROC AUC results of cross-validation (20) on CrisisLexT26
-
-- Informativeness — 0.88
-- Governments an NGO — 0.74
-- Media — 0.96
-- Eyewitness — 0.82
