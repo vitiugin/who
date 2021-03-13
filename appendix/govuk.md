@@ -8,13 +8,13 @@
 
 
 
-![img](https://github.com/vitiugin/who/blob/master/appendix/time_series/govuk.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/appendix/time_series/govuk_timeseries.png?raw=true)
 
 
 
 ### Wordcloud
 
-![](https://github.com/vitiugin/who/blob/master/appendix/wordclouds/govuk.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/appendix/wordclouds/govuk_cloud.png?raw=true)
 
 
 
