@@ -1,4 +1,4 @@
-# Donald J. Trump — [@realDonaldTrump](https://twitter.com/Publichealthni)
+# Donald J. Trump — [@realDonaldTrump](https://twitter.com/realDonaldTrump)
 
 **Number of tweets** — 499567 tweets
 
