@@ -8,13 +8,13 @@
 
 
 
-![](https://github.com/vitiugin/who/blob/master/appendix/time_series/WhiteHouse_timeseries.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/time_series/WhiteHouse_timeseries.png?raw=true)
 
 
 
 ### Wordcloud
 
-![](https://github.com/vitiugin/who/blob/master/appendix/wordclouds/WhiteHouse_cloud.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/wordclouds/WhiteHouse_cloud.png?raw=true)
 
 
 

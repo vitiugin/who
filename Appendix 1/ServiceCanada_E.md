@@ -8,13 +8,13 @@
 
 
 
-![](https://github.com/vitiugin/who/blob/master/appendix/time_series/ServiceCanada_E_timeseries.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/time_series/ServiceCanada_E_timeseries.png?raw=true)
 
 
 
 ### Wordcloud
 
-![](https://github.com/vitiugin/who/blob/master/appendix/wordclouds/ServiceCanada_E_cloud.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/wordclouds/ServiceCanada_E_cloud.png?raw=true)
 
 
 

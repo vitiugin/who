@@ -8,13 +8,13 @@
 
 
 
-![](https://github.com/vitiugin/who/blob/master/appendix/time_series/GovCanHealth_timeseries.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/time_series/GovCanHealth_timeseries.png?raw=true)
 
 
 
 ### Wordcloud
 
-![](https://github.com/vitiugin/who/blob/master/appendix/wordclouds/GovCanHealth_cloud.png?raw=true)
+![](https://github.com/vitiugin/who/blob/master/Appendix 1/wordclouds/GovCanHealth_cloud.png?raw=true)
 
 
 
